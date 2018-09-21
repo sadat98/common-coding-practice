@@ -5,13 +5,14 @@
  */
 package basicprogrammingpractice;
 
+// Program for finding the factorial of a number less than 21.
 import java.util.Scanner;
 
 /**
  *
  * @author Sayed Us Sadat
  */
-public class Task1 {
+public class FactorialVer1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
