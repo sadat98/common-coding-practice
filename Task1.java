@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  * @author Sayed Us Sadat
  */
-public class FactorialVer1 {
+public class FindingFactorialVer1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
